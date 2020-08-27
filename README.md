@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are Team-Ramachandran 💝</h1>
-<h3 align="center">A team of 3 people for HackBio'2020 Virtual Bioinformatics Internship 🖨️</h3>
+<h3 align="center">A team of 3 people for HackBio'2020 Virtual Bioinformatics Internship 🤗🖨️</h3>
 
 
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach us? **siddhaantsharma.ss@gmail.com**
 
-- ⚡ Fun fact **We are a diverse community from Indian and West Africa🤗**
+- ⚡ Fun fact **We are a diverse community from Indian and West Africa** ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
 
 
@@ -28,9 +28,7 @@
 </p>
 
 # Team-Ramachandran's Work
-
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
- 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 ![HackBio](HackBio.jfif) <br>
 Image Source: [@tbi_internship](https://twitter.com/tbi_internship)
 
@@ -38,4 +36,3 @@ Image Source: [@tbi_internship](https://twitter.com/tbi_internship)
 Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, used_language, biostack, slack_username`. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts. <br>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
