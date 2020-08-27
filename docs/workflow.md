@@ -9,7 +9,7 @@
 
 - We then proceeded on Homology Modelling of those 10 proteins with 10 different homology modelling servers and then proceeded to make the structure models. We calculated their stabilities and ramachandran analysis, refined the models and ran checks and finally went our way to pick the most stable ones (which have high coverage and minimized energy). Currently, we are working on 4 out of those proteins. The 4 proteins are selected based on different stoichiometric, geometric, and thermodynamic parameters and selecting the best protein model. 
 
--Having selected the best 4 from each team, we are working on optimizing the 4 and also doing HLA-binding predictions to identify possible epitopes in the protein Sequences. Alongside, we are carrying out HLA-protein docking, using the HLA-1 alleles we identified earlier. We started docking with MHC to protein and surface epitopes.
+- Having selected the best 4 from each team, we are working on optimizing the 4 and also doing HLA-binding predictions to identify possible epitopes in the protein Sequences. Alongside, we are carrying out HLA-protein docking, using the HLA-1 alleles we identified earlier. We started docking with MHC to protein and surface epitopes.
 
--We worked on depositing these proteins (most stable 4) on different databases such as proteopedia, model archive, wwPDB, etc.
+- We worked on depositing these proteins (most stable 4) on different databases such as proteopedia, model archive, wwPDB, etc.
 
