@@ -33,6 +33,6 @@
 Image Source: [@tbi_internship](https://twitter.com/tbi_internship)
 
 > This is the main website for team-ramachandran's HackBio'2020 Virtual Internship Experience. <br>
-Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, used_language, biostack, slack_username`. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts. <br>
+Main goal of our project is charecterization of templates for complete proteome buildup of COVID 19: Working on the undefined proteins of the virus. For more information, you can visit our workflow📜 in the sidebar and contact us! Thanks! ❤️ for visiting. <br>
 
 
