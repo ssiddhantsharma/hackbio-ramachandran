@@ -29,7 +29,7 @@
 
 # Team-Ramachandran's Work
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
-![HackBio](HackBio.jfif) <br>
+![HackBio](https://github.com/ssiddhantsharma/hackbio-ramachandran/blob/master/HackBio.jfif) <br>
 Image Source: [@tbi_internship](https://twitter.com/tbi_internship)
 
 > This is the main website for team-ramachandran's HackBio'2020 Virtual Internship Experience. <br>
