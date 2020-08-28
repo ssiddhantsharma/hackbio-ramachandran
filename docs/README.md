@@ -35,7 +35,7 @@ Image Source: [@tbi_internship](https://twitter.com/tbi_internship)
 **This is the main website for team-ramachandran's HackBio'2020 Virtual Internship Experience.** <br>
 **Main goal of our project is charecterization of templates for complete proteome buildup of COVID 19: Working on the undefined proteins of the virus. Our Biostack is Proteomics and Vaccine Development and our mentor is Dr.Surajit Debnath (India). For more information, you can visit our workflow📜 in the sidebar and contact us! Thanks! ❤️ for visiting** <br>
 
-### You can visit the team's sheet to get more insider details - [Team-Ramachandran](https://bit.ly/2YFH5ji)
+### You can view sheet to get more insider details - [Team-Ramachandran](https://bit.ly/2YFH5ji)
 
 ### Listing our Proteopedia Depositions (4 most stable protein structures) :
 - http://proteopedia.org/wiki/index.php/Image:M4SVF1_MERS.pdb     
